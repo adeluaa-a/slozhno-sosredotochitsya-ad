@@ -8,13 +8,6 @@
   --paragraph-text-color: #F1B2CE;
   --bg-color: #000028;
   --decorated-zone-color: #FF0070;
-
-
-  --main-font-family: 'IBM Plex mono';
-  
-  --font-weight-title: 700;
-  --font-size-title: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
-  --main-font-size: 18px;
   --background-image: url(../images/cover-image-dark.png);
 }
 

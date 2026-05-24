@@ -11,9 +11,11 @@
   --background-image: url(../images/cover-image-light.png);
 }
 
+
 .theme-light .title__rec {
   display: none;
 }
+
 .theme-light .header__theme-menu-button:hover {
   --accent-color: #32312D66;
 }
@@ -33,4 +35,5 @@
     --background-image: url(../images/cover-image-light.png);  
   }
 }
+
 
