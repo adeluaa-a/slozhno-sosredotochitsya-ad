@@ -163,8 +163,7 @@ h4.title-decor {
 }
 
 .header__theme-menu-button:hover {
-  --accent-color: #FF007066;
-  border: 1px solid var(--nav-color);
+  border: 1px solid var(--nav-accent-color);
 }
 
 .header__theme-menu-button_active {
@@ -233,7 +232,7 @@ section {
 }
 
 .content-link:hover {
-  border-block-end: solid 1px var(--main-text-color);
+  border-block-end: solid 1px var(--paragraph-text-color);
 }
 
 .content-link:focus {
@@ -241,7 +240,7 @@ section {
 }
 
 .content-link:focus-visible {
-  outline: solid 1px var(--main-text-color);
+  outline: solid 1px var(--paragraph-text-color);
 }
 
 @media (width >= 768px) {
